@@ -1,0 +1,3 @@
+[submodule "MiniShell_SSOO"]
+	path = MiniShell_SSOO
+	url = git@github.com:alvarocaboUPM/MiniShell_SSOO.git
